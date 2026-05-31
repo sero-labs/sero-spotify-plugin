@@ -1,3 +1,5 @@
+** CURRENTLY DEPRECATED - Will update with compatible version soon **
+
 # @sero-ai/plugin-spotify
 
 Spotify plugin for Sero — browse playlists, play tracks, and let the Sero Agent build mixes for you.
